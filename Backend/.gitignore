@@ -1,0 +1,43 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+ven/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Alembic cache
+migrations/__pycache__/
+
+# Test/cache files
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker overrides
+docker-compose.override.yml

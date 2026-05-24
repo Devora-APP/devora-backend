@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+guesslang==2.2.1
+tensorflow==2.5.0
+
+"use python 3.9"
